@@ -73,13 +73,11 @@ Links
 
 https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/pin-files.html
 
-https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmRFTtbyEp3UaT67ByYW299Suw7HKKnWK6NJMdNFzDjYdX/pinning/readme.md
+[example](https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmRFTtbyEp3UaT67ByYW299Suw7HKKnWK6NJMdNFzDjYdX/pinning/readme.md)
 
-https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc
-
-https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
+[code your own blockchain](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 
 [secure sharing of files over ipfs](https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDk4NTM2MSw2MDkyMTk3MTFdfQ==
+eyJoaXN0b3J5IjpbMTU5MDcwNzcxNyw2MDkyMTk3MTFdfQ==
 -->
