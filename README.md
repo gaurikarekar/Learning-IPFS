@@ -81,3 +81,5 @@ Links
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAwNjUyNTc1NSw2MDkyMTk3MTFdfQ==
 -->
+
+[GPG installation and how to use](http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/)
