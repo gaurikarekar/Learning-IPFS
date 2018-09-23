@@ -68,6 +68,8 @@ For the Web UI refer their  [Fancy Web Console](http://localhost:5001/webui)
 
 ***
 ## Day 2
+
+Import
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk4MDM3NjUsNjA5MjE5NzExXX0=
+eyJoaXN0b3J5IjpbLTE0NjQ2MDAzMTgsNjA5MjE5NzExXX0=
 -->
