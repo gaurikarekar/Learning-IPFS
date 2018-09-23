@@ -71,6 +71,8 @@ For the Web UI refer their  [Fancy Web Console](http://localhost:5001/webui)
 
 Links
 
+[CLI Commands](https://docs.ipfs.io/reference/api/cli/)
+
 [pinning](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/pin-files.html)
 
 [example](https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmRFTtbyEp3UaT67ByYW299Suw7HKKnWK6NJMdNFzDjYdX/pinning/readme.md)
