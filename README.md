@@ -43,7 +43,7 @@ The Quick-Start guide.
 ***
 
 
-**### Starting the IPFS deamon(going online):**
+**Starting the IPFS deamon(going online):**
 
 `ipfs daemon`
 
@@ -65,3 +65,9 @@ for text files :-  `localhost:5001/ipfs/<the-hash-value-of-the-textfile>`
 ***
 
 For the Web UI refer their  [Fancy Web Console](http://localhost:5001/webui)
+
+
+## Day 2
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjA5MjE5NzExXX0=
+-->
