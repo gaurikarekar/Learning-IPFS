@@ -71,7 +71,7 @@ For the Web UI refer their  [Fancy Web Console](http://localhost:5001/webui)
 
 Links
 
-https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/pin-files.html
+[pinning](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/pin-files.html)
 
 [example](https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmRFTtbyEp3UaT67ByYW299Suw7HKKnWK6NJMdNFzDjYdX/pinning/readme.md)
 
@@ -79,5 +79,5 @@ https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs
 
 [secure sharing of files over ipfs](https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDcwNzcxNyw2MDkyMTk3MTFdfQ==
+eyJoaXN0b3J5IjpbMjAwNjUyNTc1NSw2MDkyMTk3MTFdfQ==
 -->
